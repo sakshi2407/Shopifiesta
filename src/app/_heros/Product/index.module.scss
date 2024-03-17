@@ -63,7 +63,9 @@
 }
 
 .image {
-  object-fit: cover;
+  object-fit: contain;
+  background-color: #fff;
+  padding: 14px 0px;
 }
 
 .placeholder {
